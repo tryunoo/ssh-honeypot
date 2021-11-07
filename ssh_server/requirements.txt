@@ -1,0 +1,3 @@
+elasticsearch
+geoip2
+paramiko
